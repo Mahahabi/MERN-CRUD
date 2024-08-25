@@ -1,0 +1,31 @@
+body{
+background-color: white;
+}
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+input {
+  margin-right: 10px;
+  width: 250px;
+  height: auto;
+  color: black;
+  font-size: large;
+  background-color: rgb(219, 214, 144);
+}
+
+button{
+  background-color: skyblue;
+}
+.update {
+  margin-left: 5px;
+  color: white;
+  background-color: green;
+}
+
+.delete{
+  margin-left: 5px;
+  color: white;
+  background-color: red;
+}
